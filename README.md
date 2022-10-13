@@ -2,4 +2,4 @@
 
 ## Installation Process and Usage
 
-- [clone the repository].
+- [clone the repository]
