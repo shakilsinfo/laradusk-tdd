@@ -1,0 +1,8 @@
+Laravel Dusk Testing installation and working process
+
+1/ Composer require --dev laravel/Dusk
+2/ php artisan dusk:installation
+3/ Need to create Environment file called .env.dusk.local
+4/ Then its need to create a database in a local phpmyadmin
+5/ and then run your initial dusk testing via php artisan dusk
+6/ For create a Dusk -- php artisan dusk:make loginTest
